@@ -2,4 +2,4 @@
 a.	Saimanish Akavaramu
 b.	Major in Computer Science, Minor in Mathematics
 c.	I love to play Tennis
-d.	I'm currently the scretary of UConn Data Science Club
+d.	I'm currently the secretary of UConn Data Science Club
