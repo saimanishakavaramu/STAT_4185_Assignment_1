@@ -40,4 +40,10 @@ encrypted_message = encrypted_file.readline()
 
 encrypted_file.close()
 
-# Write code below
+reverse_cipher = dict(map(reversed, cipher.items()))
+decrypted_message = ""
+for character in encrypted_message:
+    decrypted_message += reverse_cipher[character]
+
+print(decrypted_message)
+# Write code below'''
